@@ -2,6 +2,8 @@
 
 以《冰與火之歌》第一冊的角色互動資料為基礎，分析角色中心性、社群結構與勢力分佈。
 
+![image](https://github.com/xuanxxx2002/got-character-network-analysis/blob/main/got_network_analysis.png)
+
 ## 分析流程
 
 ```
